@@ -4,3 +4,4 @@ este es un archivo
 hoa hola goa
 hola
 me llamo sofia
+escribir
